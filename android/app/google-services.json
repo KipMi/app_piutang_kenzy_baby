@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868832082054",
+    "firebase_url": "https://kenzy-baby-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kenzy-baby-project",
+    "storage_bucket": "kenzy-baby-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868832082054:android:e1d134f879366efbf67907",
+        "android_client_info": {
+          "package_name": "com.example.app_piutang_kenzy_baby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868832082054-f8pf0f36hs6dduj73dunoqhqmiq4ausd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6yPjsYdk13dWeUvKufo7lb88kbLsoXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868832082054-f8pf0f36hs6dduj73dunoqhqmiq4ausd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
